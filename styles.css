@@ -49,10 +49,10 @@
   line-height: 100vh;
 }
 .dark{
-  background-image:url(images/bg1.png) ;
+  background-image:url(Images/bg1.png) ;
 }
 .purple{
-  background-image: url(images/bg1.png);
+  background-image: url(Images/bg2.png);
 }
 .projects{
   display:flex;
