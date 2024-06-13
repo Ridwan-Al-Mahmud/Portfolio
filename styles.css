@@ -205,7 +205,7 @@
 .githubSm{
   display:none;
 }
-@media screen and (max-width:1024px){
+/*@media screen and (max-width:1024px){
   .projects{
     padding:0px 30px;
     text-align:center;
@@ -236,5 +236,5 @@
     text-align:center;
     color:#555;
   }
-}
+}*/
   
